@@ -10,8 +10,8 @@ use App\Http\Controllers\SubjectController;
 
 
 
-Route::get('/', function () {
-    return "Hello Iqra";
+Route::get('/', function () { 
+    return "Hello Iqra+sidra";
 });
 
 //  Route::get('/dashboard', function () { 
